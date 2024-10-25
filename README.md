@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoaib-Programmer
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... AI
+- 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ... Intellectual
