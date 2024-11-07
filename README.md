@@ -8,7 +8,7 @@
 
 I'm Shoaib Nigam Shaik, an ambitious high-schooler from India. I've created a couple of impressive projects:
  The intricate python package for chemical calculations,
-and  smart education platform
+and a smart education platform
 
 <!---
 Shoaib-Programmer/Shoaib-Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
