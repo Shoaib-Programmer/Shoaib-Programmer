@@ -22,4 +22,6 @@ I am a high-schooler and computer science enthusiast from<br>India. I've complet
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![github-snake-dark](https://github.com/user-attachments/assets/c83ba179-1072-4035-8c42-5b105fb795ae)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
